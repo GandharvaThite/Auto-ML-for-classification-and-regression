@@ -1,0 +1,24 @@
+metadata_version: 1
+name: Auto-ML pipeline for regression and classification on pre-processed dataset
+description: Devloping an Auto-ML pipeline is the need of an hour. The pipleine will
+  save the training time of the user for all the models, making this pipeline much
+  for optimal and efficient. One must upload the pre-processed dataset and based on
+  the dataset whether regression or classification, the dataset will be auto-trained
+  for various algorithms. The pipeline would display the report with following parameters
+  such as nature of the dataset, trained model, accuracy score, hyper-parameters tuned.
+tags:
+- Deep Leanring
+- Machine Learning
+- Auto ML
+- Regression
+- Classification
+authors:
+- name: Gandharva Thite
+  affiliations:
+  - name: Vishwakarma Institute Of Information Technology
+- name: Vishal Meshram
+  affiliations:
+  - name: Vishwakarma Institute Of Information Technology
+corresponding_contributor:
+  name: Gandharva Thite
+  email: gdthite19@gmail.com
